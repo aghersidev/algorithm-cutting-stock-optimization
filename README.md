@@ -8,7 +8,7 @@ This repository contains a Java implementation of a memetic algorithm designed t
 
 The project aims to provide an efficient solution for minimizing material consumption in the production process. By implementing a memetic algorithm, it optimizes the cutting patterns of large bars to fulfill orders of smaller bars, reducing overall costs.
 
-![results](resultsData.jpg)
+![results](resultsData.JPG)
 
 ### 📁 Repository Structure
 
